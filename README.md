@@ -20,7 +20,7 @@ Hello 👋
 - Studying Software Engineering in NJU
 - Focus on Spring Boot & Cloud & More
 
-![github stats](https://github-readme-stats.vercel.app/api?yst001=stormbroken&theme=dark&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=yst001&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yst001&hide=TeX&layout=compact&theme=dark)
 
