@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello 👋
+
+- Studying Software Engineering in NJU
+- Focus on Spring Boot & Cloud & More
+
+
+
+
